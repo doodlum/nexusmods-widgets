@@ -1,4 +1,4 @@
-## Fake donation widgets for pages on nexusmods.com  
+## Fake widgets for pages on nexusmods.com  
 
 You must click each widget image and add a hyperlink to your page. For some reason that creates an additional image which is not linked, which you should then remove. For **me** I then have
 ```
