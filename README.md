@@ -7,6 +7,13 @@ You must click each widget image and add a hyperlink to your page. For some reas
 &nbsp;  
 &nbsp;  
 
+To use these on file descriptions you must use imgur or simlar to have shorter BBCode
+
+e.g.
+```
+[url=https://ko-fi.com/doodlez][img]https://i.imgur.com/Qfds53r.png[/img][/url]      [url=https://www.patreon.com/Doodlezoid][img]https://i.imgur.com/EFp0LZH.png[/img][/url] 
+```
+
 ![alttext](https://github.com/doodlum/nexusmods-widgets/blob/main/Ko-fi_40px_60fps.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![alttext](https://github.com/doodlum/nexusmods-widgets/blob/main/Patreon_40px.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![alttext](https://github.com/doodlum/nexusmods-widgets/blob/main/Discord_40px.png)
 ```
 [img]https://github.com/doodlum/nexusmods-widgets/blob/main/Ko-fi_40px_60fps.png?raw=true[/img]      [img]https://github.com/doodlum/nexusmods-widgets/blob/main/Patreon_40px.png?raw=true[/img]      [img]https://github.com/doodlum/nexusmods-widgets/blob/main/Discord_40px.png?raw=true[/img]
