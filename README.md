@@ -10,8 +10,12 @@ To use these on file descriptions you must use imgur or similar to have less cha
 
 e.g.
 ```
-[url=https://ko-fi.com/doodlez][img]https://i.imgur.com/Qfds53r.png[/img][/url]      [url=https://www.patreon.com/Doodlezoid][img]https://i.imgur.com/EFp0LZH.png[/img][/url] 
+[url=https://ko-fi.com/doodlez][img]https://i.imgur.com/7Cm07AZ.png[/img][/url]      [url=https://www.patreon.com/Doodlezoid][img]https://i.imgur.com/XA9bLVX.png[/img][/url] 
 ```
+imgur links
+https://i.imgur.com/7Cm07AZ.png
+https://i.imgur.com/XA9bLVX.png
+https://i.imgur.com/5ZdhN7g.png
 
 &nbsp; 
 &nbsp; 
