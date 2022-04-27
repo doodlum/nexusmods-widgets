@@ -40,9 +40,9 @@ You must click each widget image and add a hyperlink to your page. For some reas
 low-res images
 
 
-![alttext](https://github.com/doodlum/nexusmods-widgets/blob/main/Ko-fi_40px_60fps.png)
-![alttext](https://github.com/doodlum/nexusmods-widgets/blob/main/Patreon_40px.png)
-![alttext](https://github.com/doodlum/nexusmods-widgets/blob/main/Discord_40px.png)
+![alttext](https://github.com/doodlum/nexusmods-widgets/blob/main/Ko-fi_40px_60fps.png)&nbsp;
+![alttext](https://github.com/doodlum/nexusmods-widgets/blob/main/Patreon_40px.png)&nbsp;
+![alttext](https://github.com/doodlum/nexusmods-widgets/blob/main/Discord_40px.png)&nbsp;
 &nbsp;
 
 
@@ -50,6 +50,6 @@ low-res images
 high-res images for other uses
 
 
-![alttext](https://github.com/doodlum/nexusmods-widgets/blob/main/Ko-fi_140px_60fps.png)
-![alttext](https://github.com/doodlum/nexusmods-widgets/blob/main/Patreon_140px.png)
-![alttext](https://github.com/doodlum/nexusmods-widgets/blob/main/Discord_140px.png)
+![alttext](https://github.com/doodlum/nexusmods-widgets/blob/main/Ko-fi_140px_60fps.png)&nbsp;
+![alttext](https://github.com/doodlum/nexusmods-widgets/blob/main/Patreon_140px.png)&nbsp;
+![alttext](https://github.com/doodlum/nexusmods-widgets/blob/main/Discord_140px.png)&nbsp;
